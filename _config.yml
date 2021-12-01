@@ -1,5 +1,5 @@
 title: Mollie# your name (or website title) here
-logo: "/images/mollie_fishpic.jpeg?raw=true" # your photo (or logo) here
+<img src="~/git_repos/mollie-passacantando.github.io/images/mollie_fishpic.jpeg"> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Graduate Student in... 
   <br><br>
