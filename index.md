@@ -7,7 +7,7 @@ I'm a graduate student studying physical oceanography at the University of Rhode
 #### University of Rhode Island
 - PhD in Physical Oceanography  
   
-#### Rutgers University
+#### Rutgers University  
 - BS in Physical Oceanography
 
 
