@@ -5,10 +5,12 @@ I'm a graduate student studying physical oceanography at the University of Rhode
 ---
 ### Education
 #### University of Rhode Island
-- PhD in Physical Oceanography
+- PhD in Physical Oceanography  
+  
 #### Rutgers University
 - BS in Physical Oceanography
 ---
+
 ### Recent Projects
 The Decadel Impact from Suppression of Eddy-Diffusivity on Surface Mixing in the Southern Ocean through
 ARGO Float Analysis
